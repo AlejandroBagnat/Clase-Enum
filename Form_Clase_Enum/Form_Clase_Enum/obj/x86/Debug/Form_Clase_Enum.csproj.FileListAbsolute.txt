@@ -1,0 +1,4 @@
+D:\C#\Form_Clase_Enum\Form_Clase_Enum\obj\x86\Debug\Form_Clase_Enum.csprojResolveAssemblyReference.cache
+D:\C#\Form_Clase_Enum\Form_Clase_Enum\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\C#\Form_Clase_Enum\Form_Clase_Enum\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\C#\Form_Clase_Enum\Form_Clase_Enum\obj\x86\Debug\Form_Clase_Enum.csproj.GenerateResource.Cache
